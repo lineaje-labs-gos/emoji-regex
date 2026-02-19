@@ -1,6 +1,6 @@
 {
   "name": "emoji-regex",
-  "version": "8.0.0",
+  "version": "8.0.0-lineaje-01",
   "description": "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
   "homepage": "https://mths.be/emoji-regex",
   "main": "index.js",
@@ -16,13 +16,19 @@
     "emoji"
   ],
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "author": {
     "name": "Mathias Bynens",
     "url": "https://mathiasbynens.be/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mathiasbynens/emoji-regex.git"
+    "url": "https://github.com/lineaje-labs-gos/emoji-regex"
   },
   "bugs": "https://github.com/mathiasbynens/emoji-regex/issues",
   "files": [
